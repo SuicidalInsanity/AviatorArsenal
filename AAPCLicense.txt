@@ -1,0 +1,2 @@
+
+The APartCatalogue .dll incorporates category creation code from a part of USITools called PartCatalog.cs and is used under the GPLv3 License. (GPLv3) 
